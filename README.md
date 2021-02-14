@@ -1,2 +1,2 @@
 # welcome
-this is just a test repository.
+This is branch dedicated for testing only.
